@@ -5,7 +5,7 @@
 
 ## About Project
 
->[!success] This `.bat` script is  compatible with windows
+> This `.bat` script is  compatible with windows
 
 A simple way to sync Obsidian notes between deviced using `git pull` and `git push` commands
 
@@ -19,7 +19,7 @@ The main idea:
 
 *First of all, this sollution is my idea to control my notes between my laptop and PC, I always know when I need to sync them, so I basically use this script to push notes to the reposotory and pull it on other device
 
->[!warning] This script uses `git push` to post notes to the repository, and `git pull` to get them on other device. It's not actual syncing: it's not happening automatically
+> This script uses `git push` to post notes to the repository, and `git pull` to get them on other device. It's not actual syncing: it's not happening automatically
 
 This way of syncing notes makes me feel more confident nothing will happen with my notes while using the script
 
@@ -30,7 +30,7 @@ Clone this repository to a folder where yours `Obsidian Vault` is located:
 git clone https://github.com/utkanos420/Obsidian-bat-sync.git
 ```
 
->[!warning] Make sure to make a copy of your notes before using script!
+> Please make sure to make a copy of your notes before using script!
 
 Create a Github repository for your notes
 
